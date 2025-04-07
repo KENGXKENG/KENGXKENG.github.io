@@ -1,3 +1,5 @@
 title: KENGXKENG의 블로그
 description: ✨ 나의 개발 같은 마법 일기 ✨
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
