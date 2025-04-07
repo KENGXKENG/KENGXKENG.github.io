@@ -3,3 +3,4 @@ description: ✨ Unity에서는 마법이 당신을 개발합니다. 그렇지 �
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+theme: minima
