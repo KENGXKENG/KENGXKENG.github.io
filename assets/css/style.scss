@@ -1,1 +1,10 @@
 
+blockquote {
+  border-left: 4px solid #999;   /* 왼쪽 선 */
+  padding: 0.5em 1em;
+  margin: 1em 0;
+  color: #ddd;                   /* 글자 색 (더 밝게 하고 싶으면 #ccc 또는 #eee) */
+  font-style: italic;           /* 기울임 */
+  background-color: #1a1a1a;     /* 배경 어둡게 */
+  border-radius: 6px;
+}
